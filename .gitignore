@@ -1,0 +1,3 @@
+# ignore venv and flaskr
+venv/
+flaskr/__pycache__/
